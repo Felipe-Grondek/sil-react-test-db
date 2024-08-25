@@ -2,7 +2,7 @@
   "name": "sil-react-test-db",
   "version": "1.0.0",
   "description": "",
-  "main": "src/server.js",
+  "main": "api/server.js",
   "scripts": {
     "start": "node api/server.js"
   },
